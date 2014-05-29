@@ -5,9 +5,8 @@
 # +----------------------------------------------------+
 #              Translate By DisqueJockeyED
 # +----------------------------------------------------+
-prefix: '&7[&6OrizonPixel&7]&r '
-help: '&6Pour Avoir Un Pet fais : &4/pet [Race]:[Age];[Nom] &bAge il y a :On met Rien
-  Pour Grand,Baby Pour Petit . Les Races il y a chicken,wolf,cow,sheep,pig'
+prefix: '&7[&6Echotpet&7]&r '
+help: '&6Fais /pet help
 no_permission: '&6Tu a pas la permission d'avoir un animal deviens un VIP pour en avoir un .'
 pets_disabled_here: '&eLes animaux ne sont pas acceptes ici.
 enter_pet_disabled_region: '&eRegion qui ne permet pas les animaux de compagnie entrant. le votre a ete cache.'
